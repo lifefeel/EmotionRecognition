@@ -12,3 +12,5 @@ Convolutional and Recurrent Neural Networks (2016.12)](http://www.apsipa.org/pro
 
 * [Towards Speech Emotion Recognition “in the wild”
 using Aggregated Corpora and Deep Multi-Task Learning (2017.08)](https://arxiv.org/pdf/1708.03920.pdf)
+
+* [Evaluating deep learning architectures for Speech Emotion Recognition (2017.08)](https://www.sciencedirect.com/science/article/pii/S089360801730059X)
