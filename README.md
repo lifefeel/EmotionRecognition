@@ -14,3 +14,5 @@ Convolutional and Recurrent Neural Networks (2016.12)](http://www.apsipa.org/pro
 using Aggregated Corpora and Deep Multi-Task Learning (2017.08)](https://arxiv.org/pdf/1708.03920.pdf)
 
 * [Evaluating deep learning architectures for Speech Emotion Recognition (2017.08)](https://www.sciencedirect.com/science/article/pii/S089360801730059X)
+
+* [Speech Emotion Recognition Using Convolutional Recurrent Neural Networks with Attention Model (2017)](http://dpi-proceedings.com/index.php/dtcse/article/view/17273)
